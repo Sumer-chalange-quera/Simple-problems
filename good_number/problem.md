@@ -12,4 +12,12 @@ The input contains a natural number kk, the number of divisors of the desired go
 ## Output
 The output of your program is a natural number. This natural number must be the first good natural number that has at least kk natural divisor.
 
+## Example
 
+````
+In: 4
+````
+
+````
+Out: 6
+````
